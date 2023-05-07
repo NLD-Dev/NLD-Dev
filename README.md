@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=hi%2C+im+nld.)](https://git.io/typing-svg)
 
 #### your local silly!
-im a haxe, js, c++ and lua coder
+im a haxe, js, c++, python and lua coder
 not really that active on here
 
 my skills are mainly coding
